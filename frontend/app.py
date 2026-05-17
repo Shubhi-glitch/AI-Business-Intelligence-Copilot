@@ -38,7 +38,7 @@ st.markdown(
 # =========================================
 
 df = pd.read_csv(
-    "data/superstore.csv",
+    "data/Superstore.csv",
     encoding="latin1"
 )
 
